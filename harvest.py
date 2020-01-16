@@ -30,7 +30,7 @@ class MelonType(object):
         """Replace the reporting code with the new_code."""
 
         # Fill in the rest
-        self.code = self.new_code
+        self.code = new_code
 
 
 def make_melon_types():
